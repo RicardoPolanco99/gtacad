@@ -2743,3 +2743,7 @@ table.order-details tbody td {
   vertical-align: middle;
   width: 100%;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
