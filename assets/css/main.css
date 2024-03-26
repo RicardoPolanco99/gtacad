@@ -5,6 +5,16 @@ html {
   line-height: 28px;
   height: 100%;
 }
+.bronce-text {
+  color: #8C6F33;
+}
+
+.plata-text {
+  color: #747474;
+}
+.oro-text {
+  color: #B3A332;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
